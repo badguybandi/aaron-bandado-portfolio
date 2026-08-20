@@ -1,5 +1,5 @@
 /**
- * Aaron Bandado — Portfolio
+ * Aaron Bandado - Portfolio
  * Navigation, theme, project rendering, deep-linkable case-study modal,
  * carousel, and scroll reveal. No dependencies, no build step.
  */

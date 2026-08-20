@@ -1,6 +1,6 @@
-# Aaron Bandado — Portfolio
+# Aaron Bandado - Portfolio
 
-A fast, accessible, static portfolio built with semantic HTML, CSS, and vanilla JavaScript. No build step, no dependencies — deployable straight to GitHub Pages.
+A fast, accessible, static portfolio built with semantic HTML, CSS, and vanilla JavaScript. No build step, no dependencies deployable straight to GitHub Pages.
 
 ## Design system
 
@@ -55,7 +55,7 @@ Each entry in `data/projects.json` supports:
 | `images` | string[] | screenshots; empty shows a branded placard |
 | `caseStudy` | object | `overview`, `problem`, `constraints`, `approach`, `architecture`, `decisions[]`, `challenges`, `results`, `lessons` |
 
-Fields beginning with `TODO` render in a muted style as visible placeholders — fill them in as the content becomes available.
+Fields beginning with `TODO` render in a muted style as visible placeholders fill them in as the content becomes available.
 
 ## Adding images
 
